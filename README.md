@@ -1,4 +1,4 @@
-# customer-Personal-Analysis-Dashboard-Power-BI-
+
 # 📊 Customer Personal Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
