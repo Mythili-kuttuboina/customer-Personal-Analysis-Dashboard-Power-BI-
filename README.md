@@ -98,7 +98,7 @@ The dataset contains customer-level information including:
 ## 📷 Dashboard Preview
 
 ![dashboard_1](https://github.com/Mythili-kuttuboina/customer-Personal-Analysis-Dashboard-Power-BI-/blob/main/Dahboard_1.png?raw=true)
-![dashboard_2](
+![dashboard_2](https://github.com/Mythili-kuttuboina/customer-Personal-Analysis-Dashboard-Power-BI-/blob/main/dashboard_2.png?raw=true)
 
 
 
